@@ -1,0 +1,11 @@
+INDEX VERSION 1.134+C:\Users\Admin\Downloads\EMC2\EMC1\.metadata\.plugins\org.eclipse.jdt.core
+264172965.index
+2218159500.index
+771001020.index
+362245812.index
+1865797976.index
+2877385862.index
+126663918.index
+3877407968.index
+3754017612.index
+2547791728.index
